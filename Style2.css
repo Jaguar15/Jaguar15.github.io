@@ -1,0 +1,21 @@
+body {
+  background: tomato;
+}
+p {
+  color:darkblue;
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: monospace;
+  
+}
+.unordered {
+  font-weight:bold;
+}
+
+img {
+  margin-right:inherit;
+  border-radius:20px;
+  border-style:dotted;
+}
